@@ -1,10 +1,10 @@
 const fs = require("fs");
 require("dotenv").config();
 
-let config = {
+let config = {2XNXHB1M
     prefix: process.env.PREFIX || ".",
     ownerName: process.env.OWNER_NAME || "Toxxic-Boy",
-    ownerNumber: process.env.OWNER_NUMBER || "2348165846414",
+    ownerNumber: process.env.OWNER_NUMBER || "2347071730400",
     mode: process.env.MODE || "public",
     region: process.env.REGION || "Nigeria",
     botName: process.env.BOT_NAME || "Rias Gremory V3",
